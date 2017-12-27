@@ -7,6 +7,11 @@ An Angular 2 component for [fullcalendar](https://fullcalendar.io/).
 ```
 npm install ap-angular2-fullcalendar --save
 ```
+## For Angular 5
+```
+npm install fullcalendar@3.6.1
+```
+
 ## Usage
 #### Import the calendar module
 ```
